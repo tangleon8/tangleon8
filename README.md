@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **cybersecurity, machine learning, & data analytics.**
 
-- 👨‍💻 I want to change the world !)
+- 👨‍💻 I want to change the world !
 
 - 📫 How to reach me **leontang27@icloud.com*
 
