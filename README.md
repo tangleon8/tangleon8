@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leon Tang
-- 👀 I’m interested in anything changing the world!
+- 👀 I’m interested in anything changing the world postively!
 
 Connect with me: https://www.linkedin.com/in/leon-tang-4328b6246/
 <!---
