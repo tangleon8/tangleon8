@@ -1,13 +1,3 @@
-<h1 align="center">Hi 👋, I'm Leon</h1>
-<h3 align="center">A passionate student from the Baltimore-Washington Area</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tangleon8" alt="tangleon8" /></a> </p>
-
-- 🌱 I’m currently learning **cybersecurity, machine learning, & data analytics.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/tangleon8?tab=repositories](https://github.com/tangleon8?tab=repositories)
-
-- 📫 How to reach me **leontang27@icloud.com**
 
 
 ## 🌐 Socials:
@@ -23,8 +13,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->rget="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tangleon8&show_icons=true&locale=en" alt="tangleon8" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tangleon8&" alt="tangleon8" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
